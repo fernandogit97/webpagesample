@@ -99,3 +99,16 @@ margin-left: 35px;
     top: 0;
     right: 0;
 }
+
+.comment-div{
+    float: none;
+    height: 50%;
+    widows: 100%;
+    margin-top: 200px;
+    text-align: center
+}
+
+.main-com{
+    margin-left: 50px;
+    margin-right: 50px;
+}
